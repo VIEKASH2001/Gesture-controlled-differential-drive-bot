@@ -1,2 +1,2 @@
 # Gesture-controlled-differential-drive-bot
-controlling a differential drive bot using hand getures
+controlling a differential drive bot using hand getures in OpenCV
