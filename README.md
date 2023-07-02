@@ -1,5 +1,6 @@
-# Gesture-controlled-differential-drive-bot
-
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Gesture+controlled+differential+drive+bot" alt="Typing SVG" />
+</a>
 Welcome to the Gesture-controlled-differential-drive-bot Github repository!
 
 This project is focused on controlling a differential drive bot using hand gestures in OpenCV. With the power of computer vision, you can now control your bot with simple hand movements, making the process more intuitive and interactive.
